@@ -1,3 +1,3 @@
 ## AI Generated Portfolio
 
-<p>This a AI made Portfolio</p>
+<p>This is a AI generated Portfolio . . .</p>
